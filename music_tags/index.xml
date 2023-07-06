@@ -6,6 +6,16 @@
     <description>Recent content in Music_tags on Lý Trang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Lý Trang ©</copyright><atom:link href="https://lyytrang.github.io/music_tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Lý Trang ©</copyright>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lyytrang.github.io/music_tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>album</title>
+      <link>https://lyytrang.github.io/music_tags/album/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/music_tags/album/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

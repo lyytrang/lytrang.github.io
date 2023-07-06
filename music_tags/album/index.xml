@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>album on Lý Trang</title>
+    <link>https://lyytrang.github.io/music_tags/album/</link>
+    <description>Recent content in album on Lý Trang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Lý Trang ©</copyright>
+    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://lyytrang.github.io/music_tags/album/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snail Skeleton</title>
+      <link>https://lyytrang.github.io/library/snail-skeleton/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/library/snail-skeleton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
