@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lyytrang.github.io/projects/project2/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>https://lyytrang.github.io/projects/duongchau-set/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/projects/how-i-miss-the-taste-of-tangerine/</loc>
+    <lastmod>2018-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/projects/red-baloon/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/projects/refraction2020/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/projects/memory-lane/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/projects/famlab2018/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/projects/project1/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/projects/project3/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/about/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
@@ -20,29 +26,26 @@
     <loc>https://lyytrang.github.io/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lyytrang.github.io/project_tags/markdown/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/project_tags/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lyytrang.github.io/projects/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/project_tags/docs/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/project_tags/how-to/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lyytrang.github.io/project_tags/webapp/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/garden/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/library/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/project_tags/collaboration/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/project_tags/live/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/project_tags/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/project_tags/soundtrack/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/music_tags/album/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
@@ -61,6 +64,9 @@
   </url><url>
     <loc>https://lyytrang.github.io/garden/growing_example/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lyytrang.github.io/project_tags/sound-studies/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lyytrang.github.io/library/snail-skeleton/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>

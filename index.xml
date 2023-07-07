@@ -7,14 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Lý Trang ©</copyright>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lyytrang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lyytrang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Theme Documentation</title>
-      <link>https://lyytrang.github.io/projects/project2/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Live set at the opening exhibition ‘Đường Chạy&#39;</title>
+      <link>https://lyytrang.github.io/projects/duongchau-set/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://lyytrang.github.io/projects/project2/</guid>
-      <description>Details on how to create and update content on your site</description>
+      <guid>https://lyytrang.github.io/projects/duongchau-set/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound design for Xuan Ha’s short film «How i miss the taste of tangerine»</title>
+      <link>https://lyytrang.github.io/projects/how-i-miss-the-taste-of-tangerine/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/projects/how-i-miss-the-taste-of-tangerine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cine-concert «Red Balloon»: Live soundtrack for the film «And So It Is»</title>
+      <link>https://lyytrang.github.io/projects/red-baloon/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/projects/red-baloon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cine-concert «Refraction» w/ Sound Awakener and Ho Tram Anh</title>
+      <link>https://lyytrang.github.io/projects/refraction2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/projects/refraction2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soundtrack for Nguyễn Ngọc Thảo Ly&#39;s «Memory Lane»</title>
+      <link>https://lyytrang.github.io/projects/memory-lane/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/projects/memory-lane/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -27,30 +63,12 @@
     </item>
     
     <item>
-      <title>Markdown Syntax</title>
-      <link>https://lyytrang.github.io/projects/project1/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://lyytrang.github.io/projects/project1/</guid>
-      <description>Example of markdown syntax you can use to edit your content</description>
-    </item>
-    
-    <item>
-      <title>Another Project</title>
-      <link>https://lyytrang.github.io/projects/project3/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://lyytrang.github.io/projects/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lý Trang</title>
+      <title>Bio</title>
       <link>https://lyytrang.github.io/about/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lyytrang.github.io/about/</guid>
-      <description>Bio</description>
+      <description></description>
     </item>
     
     <item>
