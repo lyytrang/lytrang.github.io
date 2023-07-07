@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>FAMLAB Residency — 1st stage</title>
+      <link>https://lyytrang.github.io/projects/famlab2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/projects/famlab2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax</title>
       <link>https://lyytrang.github.io/projects/project1/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
@@ -33,6 +42,15 @@
       
       <guid>https://lyytrang.github.io/projects/project3/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Lý Trang</title>
+      <link>https://lyytrang.github.io/about/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lyytrang.github.io/about/</guid>
+      <description>Bio</description>
     </item>
     
     <item>
@@ -78,15 +96,6 @@
       
       <guid>https://lyytrang.github.io/library/snail-skeleton/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lý Trang</title>
-      <link>https://lyytrang.github.io/about/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://lyytrang.github.io/about/</guid>
-      <description>Bio</description>
     </item>
     
   </channel>
